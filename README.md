@@ -1,1 +1,1 @@
-# HackerRank-CPP
+# HackerRank-DataStructure
